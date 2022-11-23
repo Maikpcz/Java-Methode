@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c48b5fc2-f5e1-41bb-beb7-a8f9240e902a" name="Changes" comment="Methode" />
+    <list default="true" id="c48b5fc2-f5e1-41bb-beb7-a8f9240e902a" name="Changes" comment="Methode">
+      <change beforePath="$PROJECT_DIR$/New.java" beforeDir="false" afterPath="$PROJECT_DIR$/New.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669199743912</updated>
       <workItem from="1669199745723" duration="1463000" />
-      <workItem from="1669201244254" duration="1642000" />
+      <workItem from="1669201244254" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="Methode">
       <created>1669201690359</created>
@@ -59,14 +61,7 @@
       <option name="project" value="LOCAL" />
       <updated>1669201690360</updated>
     </task>
-    <task id="LOCAL-00002" summary="Methode">
-      <created>1669202498833</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1669202498833</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
